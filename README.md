@@ -3,7 +3,7 @@
 This application generates engaging captions or post content for social media platforms based on an uploaded image and contextual input. It utilizes the Google GenerativeAI API to generate content.
 
 # Youtube video Link:
-[![Alt text](https://img.youtube.com/vi/08xgPc1ToTU/0.jpg)](https://www.youtube.com/watch?v=08xgPc1ToTU)
+[![Alt text](https://img.youtube.com/vi/xwiYUISIZKw/0.jpg)](https://www.youtube.com/watch?v=xwiYUISIZKw)
 
 ## Features
 
@@ -49,3 +49,4 @@ Contributions are welcome! If you have any suggestions, bug fixes, or improvemen
 ---
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdyuthiramesh%2FCaptionify&labelColor=%23697689&countColor=%23ffa500)](https://github.com/dyuthiramesh/Captionify)
+
